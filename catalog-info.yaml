@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "samesa"
+  description: "same"
+  annotations:
+    github.com/project-slug: Medha008/samf
+spec:
+  type: service
+  owner: "awesome-pet"
+  lifecycle: experimental
